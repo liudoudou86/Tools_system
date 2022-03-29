@@ -2,5 +2,9 @@
 
 > 这是一个神奇的网站
 
-### 壁纸推荐
+### 福利
   * [极简壁纸](https://bz.zzzmh.cn/index)
+
+### 导航
+  * [百度](https://www.baidu.com/)
+  * [必应](https://cn.bing.com/)

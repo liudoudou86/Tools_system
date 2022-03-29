@@ -14,7 +14,17 @@
     window.$docsify = {
       name: '',
       repo: '',
-      loadSidebar: true
+      loadSidebar: true,
+      search: {
+          noData: {
+            '/': '没有结果!',
+          },
+          paths: 'auto',
+          placeholder: {
+            '/': '搜索',
+          },
+          pathNamespaces: ['/']
+        }
     }
   </script>
   <!-- Docsify v4 -->

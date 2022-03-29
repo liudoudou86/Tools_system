@@ -1,5 +1,5 @@
-* 导航预览
+* 店小二
   * [首页](/README.md)
-  * [工具网站](/Technical_website.md)
-  * [娱乐网站](/Entertainment_website.md)
-  * [学习网站](/Learning_website.md)
+  * [常用工具](/Technical_website.md)
+  * [摸鱼专区](/Entertainment_website.md)
+  * [学习园地](/Learning_website.md)
