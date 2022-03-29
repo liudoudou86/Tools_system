@@ -12,9 +12,10 @@
   <div id="app">加载中...</div>
   <script>
     window.$docsify = {
-      name: '武器店', // 首页名字
+      name: '武器店🚀', // 首页名字
       repo: 'https://github.com/liudoudou86/Tools_system', // 关联github地址
       homepage: 'README.md', // 文件加载的入口文件
+      coverpage: true, // 封面页logo
       loadSidebar: true, // 加载侧边栏
       search: {
           noData: {
@@ -31,5 +32,10 @@
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
 </body>
 </html>
