@@ -2,7 +2,7 @@
 
 # 武器店🚀 <small>2.0</small>
 
-> 这是一个神奇的网站
+> 阿瓦达啃大瓜
 
-[GitHub](https://github.com/liudoudou86/Tools_system)
-[武器店](README.md)
+[Bing](https://cn.bing.com/)
+[首页](README.md)
