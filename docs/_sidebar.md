@@ -1,4 +1,4 @@
-* 店小二
-  * [常用工具](/Technical_website.md)
-  * [摸鱼专区](/Entertainment_website.md)
-  * [学习园地](/Learning_website.md)
+* **店小二**
+  * [常用工具](/Technical.md)
+  * [摸鱼专区](/Entertainment.md)
+  * [学习园地](/Learning.md)
