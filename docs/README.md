@@ -5,3 +5,4 @@
 ### 福利
   * [极简壁纸](https://bz.zzzmh.cn/index)
   * [Wallhaven](https://wallhaven.cc/)
+  * [必应壁纸](https://bing.ioliu.cn/)
