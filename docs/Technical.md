@@ -1,8 +1,9 @@
 ### 技术社区
   * [掘金](https://juejin.cn/)
-  * [阮一峰](http://www.ruanyifeng.com/home.html)
-  * [HelloWorld](https://www.helloworld.net/)
   * [虫师](https://www.cnblogs.com/fnng/)
+  * [代码速查](https://wangchujiang.com/reference/)
+  * [HelloWorld](https://www.helloworld.net/)
+  * [阮一峰](http://www.ruanyifeng.com/home.html)
 
 ### 常用工具
   * [腾讯翻译君](https://fanyi.qq.com/)
