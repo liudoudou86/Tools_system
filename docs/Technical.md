@@ -1,7 +1,7 @@
 ### 技术社区
-  * [掘金](https://juejin.cn/)
   * [力扣](https://leetcode.cn/)
-  * [虫师](https://www.cnblogs.com/fnng/)
+  * [掘金](https://juejin.cn/)
+  * [思否](https://segmentfault.com/questions/hottest/monthly)
   * [阮一峰](http://www.ruanyifeng.com/home.html)
   * [代码速查](https://wangchujiang.com/reference/)
 
