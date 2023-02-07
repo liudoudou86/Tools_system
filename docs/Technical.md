@@ -7,8 +7,8 @@
 
 
 ### 常用工具
-  * [腾讯翻译君](https://fanyi.qq.com/)
+  * [腾讯翻译](https://transmart.qq.com/)
   * [GitHub](https://github.com/)
   * [Gitee](https://gitee.com/)
-  * [流程图工具](https://app.diagrams.net/)
-  * [微信传输助手](https://filehelper.weixin.qq.com/)
+  * [流程图](https://app.diagrams.net/)
+  * [微信传输](https://filehelper.weixin.qq.com/)
