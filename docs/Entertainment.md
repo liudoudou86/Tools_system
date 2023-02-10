@@ -5,5 +5,6 @@
 
 ### 头部社区
   * [程序员导航](http://cxy521.com/)
-  * [菜鸟工具](https://c.runoob.com/)
   * [今日热榜](https://tophub.today/)
+  * [菜鸟工具](https://c.runoob.com/)
+  * [帮小忙](https://tool.browser.qq.com/)
