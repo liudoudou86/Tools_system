@@ -1,9 +1,9 @@
 ### 技术社区
-  * [力扣](https://leetcode.cn/)
   * [掘金](https://juejin.cn/)
-  * [思否](https://segmentfault.com/questions/hottest/monthly)
+  * [力扣](https://leetcode.cn/)
   * [阮一峰](http://www.ruanyifeng.com/home.html)
   * [代码速查](https://wangchujiang.com/reference/)
+  * [开发者头条](https://toutiao.io/)
 
 
 ### 常用工具
