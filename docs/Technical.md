@@ -1,6 +1,6 @@
 ### 技术社区
   * [掘金](https://juejin.cn/)
-  * [力扣](https://leetcode.cn/)
+  * [思否](https://segmentfault.com/)
   * [阮一峰](http://www.ruanyifeng.com/home.html)
   * [代码速查](https://wangchujiang.com/reference/)
   * [开发者头条](https://toutiao.io/)
