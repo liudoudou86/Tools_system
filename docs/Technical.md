@@ -7,7 +7,7 @@
 
 
 ### 常用工具
-  * [腾讯翻译](https://transmart.qq.com/)
+  * [腾讯翻译](https://fanyi.qq.com/)
   * [GitHub](https://github.com/)
   * [Gitee](https://gitee.com/)
   * [流程图](https://excalidraw.com/)
