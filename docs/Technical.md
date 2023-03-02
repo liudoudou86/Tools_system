@@ -2,6 +2,7 @@
   * [掘金](https://juejin.cn/)
   * [思否](https://segmentfault.com/)
   * [阮一峰](http://www.ruanyifeng.com/home.html)
+  * [InfoQ](https://xie.infoq.cn/tag/524/1/latest)
   * [代码速查](https://wangchujiang.com/reference/)
   * [开发者头条](https://toutiao.io/)
 
