@@ -1,6 +1,6 @@
 ### 技术社区
   * [掘金](https://juejin.cn/)
-  * [思否](https://segmentfault.com/)
+  * [思否](https://segmentfault.com/t/%E6%B5%8B%E8%AF%95)
   * [InfoQ](https://xie.infoq.cn/tag/524/1/latest)
   * [阮一峰](http://www.ruanyifeng.com/home.html)
   * [代码速查](https://wangchujiang.com/reference/)
