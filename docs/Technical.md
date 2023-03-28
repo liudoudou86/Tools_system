@@ -1,8 +1,7 @@
 ### 技术社区
   * [掘金](https://juejin.cn/hot/articles/1)
-  * [思否](https://segmentfault.com/t/%E6%B5%8B%E8%AF%95)
-  * [InfoQ](https://xie.infoq.cn/tag/524/1/latest)
   * [阮一峰](http://www.ruanyifeng.com/home.html)
+  * [开源中国](https://www.oschina.net/)
   * [代码速查](https://wangchujiang.com/reference/)
   * [开发者头条](https://toutiao.io/)
 
