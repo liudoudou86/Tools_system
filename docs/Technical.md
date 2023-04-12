@@ -1,7 +1,6 @@
 ### 技术社区
   * [掘金](https://juejin.cn/hot/articles/1)
   * [阮一峰](http://www.ruanyifeng.com/home.html)
-  * [开源中国](https://www.oschina.net/)
   * [代码速查](https://wangchujiang.com/reference/)
   * [开发者头条](https://toutiao.io/)
 
