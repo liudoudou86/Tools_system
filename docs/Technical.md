@@ -1,8 +1,8 @@
 ### 技术社区
   * [掘金](https://juejin.cn/hot/articles/1)
-  * [安全客](https://www.anquanke.com/)
   * [阮一峰](http://www.ruanyifeng.com/home.html)
   * [代码速查](https://wangchujiang.com/reference/)
+  * [FreeBuf](https://www.freebuf.com/)
   * [开发者头条](https://toutiao.io/)
 
 ### 常用工具
