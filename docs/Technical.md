@@ -5,6 +5,7 @@
 - [少数派](https://sspai.com/)
 - [FreeBuf](https://www.freebuf.com/)
 - [代码速查](https://wangchujiang.com/reference/)
+- [人人都是产品经理](https://www.woshipm.com/)
 
 ### 常用工具
 
