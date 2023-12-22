@@ -1,10 +1,10 @@
 ### 技术社区
 
+- [笛卡](https://dizkaz.com/?sort=list_hot)
 - [掘金](https://juejin.cn/hot/articles/1)
 - [阮一峰](http://www.ruanyifeng.com/home.html)
 - [少数派](https://sspai.com/)
 - [FreeBuf](https://www.freebuf.com/)
-- [代码速查](https://wangchujiang.com/reference/)
 - [人人都是产品经理](https://www.woshipm.com/)
 
 ### 常用工具
@@ -13,4 +13,5 @@
 - [GitHub](https://github.com/)
 - [流程图](https://excalidraw.com/)
 - [腾讯翻译](https://fanyi.qq.com/)
+- [代码速查](https://wangchujiang.com/reference/)
 - [微信传输](https://filehelper.weixin.qq.com/)
