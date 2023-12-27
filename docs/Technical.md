@@ -1,6 +1,6 @@
 ### 技术社区
 
-- [笛卡](https://dizkaz.com/?sort=list_hot)
+- [思否](https://segmentfault.com/)
 - [掘金](https://juejin.cn/hot/articles/1)
 - [阮一峰](http://www.ruanyifeng.com/home.html)
 - [少数派](https://sspai.com/)
