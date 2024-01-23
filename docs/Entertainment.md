@@ -3,6 +3,7 @@
 - [喜马拉雅](https://www.ximalaya.com/)
 - [酷狗音乐](https://www.kugou.com/)
 - [哔哩哔哩](https://www.bilibili.com/)
+- [Vidhub](https://vidhub.tv/)
 - [茶杯狐](https://cupfox.app/)
 
 ### 头部社区
