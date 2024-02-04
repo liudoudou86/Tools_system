@@ -5,7 +5,8 @@
 - [阮一峰](http://www.ruanyifeng.com/home.html)
 - [少数派](https://sspai.com/)
 - [FreeBuf](https://www.freebuf.com/)
-- [人人都是产品经理](https://www.woshipm.com/)
+- [开源中国](https://www.oschina.net/)
+- [产品经理](https://www.woshipm.com/)
 
 ### 常用工具
 
