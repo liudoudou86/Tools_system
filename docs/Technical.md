@@ -1,10 +1,10 @@
 ### 技术社区
 
-- [思否](https://segmentfault.com/)
 - [掘金](https://juejin.cn/hot/articles/1)
-- [阮一峰](http://www.ruanyifeng.com/home.html)
 - [少数派](https://sspai.com/)
+- [阮一峰](http://www.ruanyifeng.com/home.html)
 - [FreeBuf](https://www.freebuf.com/)
+- [漏洞盒子](https://www.vulbox.com/knowledge)
 - [开源中国](https://www.oschina.net/)
 - [产品经理](https://www.woshipm.com/)
 
