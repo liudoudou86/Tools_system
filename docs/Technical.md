@@ -11,6 +11,7 @@
 
 - [Gitee](https://gitee.com/)
 - [GitHub](https://github.com/)
+- [OSHW](https://oshwhub.com/)
 - [流程图](https://excalidraw.com/)
 - [腾讯翻译](https://fanyi.qq.com/)
 - [代码速查](https://wangchujiang.com/reference/)
