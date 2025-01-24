@@ -8,4 +8,5 @@
 - [产品经理](https://www.woshipm.com/)
 - [今日热榜](https://tophub.today/)
 - [程序员导航](http://cxy521.com/)
+- [骇客技能表](https://paper.seebug.org/RD_Checklist/index.html)
 - [GitHubTrending](https://github.com/trending/)
