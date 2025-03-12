@@ -3,7 +3,7 @@
 - [Gitee](https://gitee.com/)
 - [GitHub](https://github.com/)
 - [OSHW](https://oshwhub.com/)
-- [流程图](https://excalidraw.com/)
+- [流程图](https://app.diagrams.net/)
 - [帮小忙](https://tool.browser.qq.com/)
 - [腾讯翻译](https://fanyi.qq.com/)
 - [代码速查](https://wangchujiang.com/reference/)
