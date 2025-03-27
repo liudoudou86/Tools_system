@@ -1,6 +1,7 @@
 ### 技术社区
 
 - [掘金](https://juejin.cn/hot/articles/1)
+- [思否](https://segmentfault.com/)
 - [少数派](https://sspai.com/)
 - [阮一峰](http://www.ruanyifeng.com/home.html)
 - [SeeBug](https://www.seebug.org/)
