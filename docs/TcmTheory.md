@@ -5,3 +5,4 @@
 - [黄帝内经](https://www.guoxuemeng.com/guoxue/huangdineijing/)
 - [伤寒论](https://www.guoxuemeng.com/guoxue/shanghanlun/)
 - [金匮要略](https://www.guoxuemeng.com/guoxue/jinguiyaolue/)
+- [乡间郎中](https://www.xjlz365.com/)
