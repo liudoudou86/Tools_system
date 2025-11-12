@@ -3,8 +3,8 @@
 - [掘金](https://juejin.cn/hot/articles/1)
 - [少数派](https://sspai.com/)
 - [阮一峰](http://www.ruanyifeng.com/home.html)
-- [产品经理](https://www.woshipm.com/)
 - [FreeBuf](https://www.freebuf.com/)
+- [产品经理](https://www.woshipm.com/)
 - [骇客技能表](https://paper.seebug.org/RD_Checklist/index.html)
 - [GitHubTrending](https://github.com/trending/)
 
