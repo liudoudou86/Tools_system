@@ -1,5 +1,6 @@
 ### 常用工具
 
+- [力扣](https://leetcode.cn/)
 - [Gitee](https://gitee.com/)
 - [GitHub](https://github.com/)
 - [OSHW](https://oshwhub.com/)
