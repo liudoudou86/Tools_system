@@ -3,6 +3,6 @@
   - [技术社区](/TechnicalCommunity.md)
   - [中医理论](/TcmTheory.md)
   - [常用工具](/CommonTools.md)
-  - [AI工具](/AiTools.md)
+  - [AI工具集](/AiTools.md)
   - [学习资讯](/LearningInformation.md)
   - [个人备忘](/PersonalMemo.md)
