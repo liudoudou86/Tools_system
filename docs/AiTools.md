@@ -5,6 +5,9 @@
 - [智谱清言](https://chatglm.cn/main/alltoolsdetail?redirect=/main/alltoolsdetail&lang=zh)
 - [DeepSeek](https://chat.deepseek.com/)
 - [智谱AI开放平台](https://bigmodel.cn/usercenter/proj-mgmt/apikeys)
+
+### 接口平台
+
 - [DeepSeek 开放平台](https://platform.deepseek.com/usage)
 - [Moonshot 开放平台](https://platform.moonshot.cn/console/api-keys)
 - [MiniMax API 开放平台](https://platform.minimaxi.com/user-center/payment/token-plan)

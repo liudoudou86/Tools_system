@@ -5,6 +5,7 @@
 - [阮一峰](http://www.ruanyifeng.com/home.html)
 - [FreeBuf](https://www.freebuf.com/)
 - [产品经理](https://www.woshipm.com/)
+- [知识星球](https://wx.zsxq.com/group/28851124821181)
 - [骇客技能表](https://paper.seebug.org/RD_Checklist/index.html)
 - [GitHubTrending](https://github.com/trending/)
 
