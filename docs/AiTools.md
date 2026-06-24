@@ -1,6 +1,7 @@
 ### AI工具
 
 - [扣子](https://www.coze.cn/home)
+- [豆包](https://www.doubao.com/chat)
 - [Kimi](https://kimi.moonshot.cn/)
 - [智谱清言](https://chatglm.cn/main/alltoolsdetail?redirect=/main/alltoolsdetail&lang=zh)
 - [DeepSeek](https://chat.deepseek.com/)
