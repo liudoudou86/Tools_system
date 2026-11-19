@@ -6,7 +6,6 @@
 - [FreeBuf](https://www.freebuf.com/)
 - [产品经理](https://www.woshipm.com/)
 - [骇客技能表](https://paper.seebug.org/RD_Checklist/index.html)
-- [GitHubTrending](https://github.com/trending/)
 
 ### 头部资讯
 
