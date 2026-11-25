@@ -2,6 +2,7 @@
 
 - [豆包](https://www.doubao.com/chat)
 - [Kimi](https://kimi.moonshot.cn/)
+- [OiiOii](https://www.oiioii.tv/zh/)
 - [智谱清言](https://chatglm.cn/main/alltoolsdetail?redirect=/main/alltoolsdetail&lang=zh)
 - [DeepSeek](https://chat.deepseek.com/)
 
